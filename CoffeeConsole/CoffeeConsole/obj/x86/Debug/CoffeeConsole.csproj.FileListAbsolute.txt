@@ -1,0 +1,4 @@
+E:\Learning\Csharp\CoffeeConsole\CoffeeConsole\bin\Debug\CoffeeConsole.exe
+E:\Learning\Csharp\CoffeeConsole\CoffeeConsole\bin\Debug\CoffeeConsole.pdb
+E:\Learning\Csharp\CoffeeConsole\CoffeeConsole\obj\x86\Debug\CoffeeConsole.exe
+E:\Learning\Csharp\CoffeeConsole\CoffeeConsole\obj\x86\Debug\CoffeeConsole.pdb
