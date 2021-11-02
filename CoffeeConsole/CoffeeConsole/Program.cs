@@ -53,8 +53,8 @@ namespace CoffeeConsole
                 ThongKeController obj = new ThongKeController();
                 obj.Menu();
             }
-            else if (s == "6")
-                return;
+           
+                
 
 
             Console.Clear();
